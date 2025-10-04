@@ -4,4 +4,4 @@ Bài 2: http://localhost:8080/param/form     Load form.html, nhấn Save để t
 
 Bài 4: http://localhost:8080/product/form    Load form.html để nhập name + price, nhấn Save
 
-Bài 5: http://localhost:8080/a               → Trang a.html
+Bài 5: http://localhost:8080/a               → Trang a.html.

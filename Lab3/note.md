@@ -4,4 +4,4 @@ Bài 2: http://localhost:8080/staff/list  Hiển thị danh sách nhân viên (d
 
 Bài 4: http://localhost:8080/staff/status   Hiển thị trạng thái từng phần tử (index, count, odd...)
 
-Bài 5: http://localhost:8080/staff/control      --> Hiển thị select box và radio button
+Bài 5: http://localhost:8080/staff/control      --> Hiển thị select box và radio button.
